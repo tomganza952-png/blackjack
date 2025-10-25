@@ -1,0 +1,122 @@
+📘 Manuale Completo del Blackjack
+🎯 Obiettivo del Gioco
+Il Blackjack è un gioco di carte in cui l’obiettivo è battere il banco avvicinandosi il più possibile a 21 punti senza superarlo. Il miglior punteggio possibile è Blackjack: un Asso + una carta da 10 (10, J, Q, K).
+
+🃏 Valore delle Carte
+Carte da 2 a 10: valgono il loro valore numerico.
+
+Jack, Donna, Re (J, Q, K): valgono 10 punti.
+
+Asso (A): vale 1 o 11 punti, a seconda di quale valore avvantaggi di più il giocatore senza sballare.
+
+Esempi:
+
+A + 9 = 20
+
+A + 7 + 9 = 17 (l'Asso vale 1, altrimenti si sballa)
+
+🎲 Regole di Base
+Si gioca contro il banco (il mazziere), non contro altri giocatori.
+
+Ogni giocatore riceve 2 carte scoperte.
+
+Il banco riceve 1 carta scoperta e 1 coperta (la "hole card").
+
+Si usano uno o più mazzi da 52 carte (di solito 6 o 8 nei casinò).
+
+Le carte vengono rimescolate regolarmente.
+
+🔄 Azioni Possibili del Giocatore
+Dopo la distribuzione iniziale, il giocatore può:
+
+1. Carta (Hit)
+Richiede un’altra carta per avvicinarsi a 21. Può richiedere più carte finché:
+
+Non raggiunge 21, oppure
+
+Non sballa (supera 21)
+
+2. Stai (Stand)
+Decide di non prendere altre carte. Passa il turno al banco.
+
+3. Raddoppio (Double Down)
+Può essere fatto solo alla prima mano, prima di prendere altre carte.
+
+Si raddoppia la puntata iniziale.
+
+Si riceve una sola carta aggiuntiva, e poi si sta obbligatoriamente.
+
+🔸 Esempio: se hai 10 e decidi di raddoppiare, ricevi una carta (es. 9), ora hai 19 e non puoi più agire.
+
+Nota: Alcune varianti permettono il raddoppio solo se hai 9, 10 o 11 punti iniziali.
+
+👨‍⚖️ Regole del Banco
+Il banco scopre la seconda carta dopo che tutti i giocatori hanno finito.
+
+Il banco deve pescare fino a 17.
+
+Il banco sta su 17 o più (in molti casinò, anche se ha un 17 "soft", es. A+6).
+
+Il banco non può raddoppiare o scegliere: segue sempre queste regole fisse.
+
+⚔️ Condizioni di Vittoria
+Se il giocatore supera 21, perde automaticamente (sballa).
+
+Se il banco sballa e il giocatore no, il giocatore vince.
+
+Se entrambi hanno lo stesso punteggio (es. 18), è pareggio (push).
+
+Se il giocatore ha più punti del banco senza sballare, vince.
+
+Se il banco ha più punti del giocatore senza sballare, vince il banco.
+
+Se il giocatore fa Blackjack naturale (A + 10/J/Q/K) e il banco no, vince con payout 3:2 (salvo diverse regole locali).
+
+💰 Payout
+Mano vincente normale: paga 1:1 (raddoppio della puntata).
+
+Blackjack naturale: paga 3:2 (es. punti 10, vinci 15).
+
+Pareggio (Push): recuperi la tua puntata.
+
+Sconfitta: perdi la puntata.
+
+💡 Strategie di Base (senza Split)
+Ecco alcune linee guida:
+
+Con 17 o più: generalmente stai.
+
+Con 12–16: stai se il banco ha 2–6 (rischia di sballare), chiedi carta se il banco ha 7–A.
+
+Con 11 o meno: chiedi carta.
+
+Raddoppia con:
+
+11 contro qualsiasi carta del banco.
+
+10 contro 2–9 del banco.
+
+9 contro 3–6 del banco.
+
+🚫 Azioni NON Consentite in questo Manuale
+Nessuno Split: in questo regolamento, non è consentito dividere una coppia di carte uguali.
+
+🎮 Altre Regole Comuni nei Casinò (da verificare)
+Blackjack del banco con Asso: spesso il banco offre "even money" se il giocatore ha Blackjack.
+
+Assicurazione: possibile se il banco mostra un Asso (non consigliata, è svantaggiosa).
+
+Numero massimo di giocatori: di solito 5-7 per tavolo.
+
+Carte visibili: tutte le carte del giocatore sono scoperte.
+
+📑 Glossario
+Soft Hand: mano con un Asso contato come 11 (es. A+6 = soft 17).
+
+Hard Hand: mano senza Asso o con Asso contato come 1 (es. 10+7 o A+6+10).
+
+Push: pareggio tra giocatore e banco.
+
+Sballare: superare 21 punti.
+
+Hole Card: la carta coperta del banco.
